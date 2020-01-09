@@ -1,0 +1,1 @@
+insert into fym_user(`read_keyword`,`read_victitle`,`read_tpl`,`title`,`img`,`pic`,`juzi`,`duankous`,`lanmu`,`create_time`,`visiter_key`) values(0,0,0,0,0,0,0,0,0,1576923728,"44a1d802b681a233db1a6150d5e64c82e2c4d486")
